@@ -1,0 +1,6 @@
+Para correr el proyecto se deben tener estos requerimientos en el sistema:
+
+bun.js = https://bun.sh/
+
+1. Instalar las dependencias desde la carpeta raiz del proyecto con el comando "bun install"
+2. Inicializar el proyecto en local en modo desarrollo con el comando "bun --bun run dev"
